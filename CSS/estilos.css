@@ -1,0 +1,43 @@
+body {
+    background-image: url("https://lh3.googleusercontent.com/gRuffQ21lZBWfijpCmIZXMKQvG-zxNiCL36aaJ1w5wSBysqbon5unuDwfJLKrnLLCrMZkEJlGaO3igHpANcOfl1FpMvxTRU5iIYLzb6WOBdrQT7XTGNazPxtyASIKBkI2PFxuqb5eUWdU3hoixUQk3sPbO5YLWRjmiewGZq2oAY1nHYeiD-YZFb1rS9ZeY6vF2hQJotXIDqG_4XMLUIvdT6hic37OSFsibup6YTiWIQuHhiYVWukSukYAnFYCfUjNxOEhtCpEWkLvTQPlRwOOBHjQNVGl3l4zQGKXC-jSMtSYTNVo6IeDCIbWoEedcL-RYQ9MKawO3V7d1xSxLqHmpXM1orHctcJoq6m1WIy_aeAbVy0r1IkEpgBRl63w5ntcXqXhXewWghkIPR5CFrh-U-vrBY78WxjWNJnT-NeTgNCJCR0w5uR3F923LRF8Iy_m6kMS7sNtPcyDxyyfWT-coJ14Yxz14GndYkvLZqPcdtshv_jerimwIq53cRPOXLWhsNbzuj7TjQUNzq6yBPiysDX1FjDBOrI_U0K_6kzWY5e38gT4xJTPKpFnACOS3n22WeOItvLdBhmW_rU2tW3FLQcpZeSaYsj1eVUD0mjVhKEfrPUeuMCSTGBUt7-d6qlI9a4gtTX3sIPUL98PcdO2nl5MK86lr7Gg_YgLnV4m5306L5kdTf9-ZvaUB79yA=w1690-h950-no?authuser=0");
+      background-size: auto 100vh;
+      font-family: Arial;
+      height: 100vh;
+    
+  }
+  
+  .menu {
+    background-color: white;
+    
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li{
+    list-style: none;
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+    
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title{
+    color: whitesmoke;
+    text-align: center;
+    
+  }
+  
+  .site-subtitle{
+    font-style: italic;
+  }
+    
